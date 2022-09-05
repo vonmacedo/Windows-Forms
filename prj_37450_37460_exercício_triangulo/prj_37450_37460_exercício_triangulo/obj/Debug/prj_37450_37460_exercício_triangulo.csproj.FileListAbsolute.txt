@@ -1,0 +1,22 @@
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.exe.config
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.pdb
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.AssemblyReference.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.Form1.resources
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.Properties.Resources.resources
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.GenerateResource.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.pdb
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.exe.config
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.exe
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\bin\Debug\prj_37450_37460_exercício_triangulo.pdb
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.AssemblyReference.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.Form1.resources
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.Properties.Resources.resources
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.GenerateResource.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.exe
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\prj_37450_37460_exercício_triangulo\prj_37450_37460_exercício_triangulo\obj\Debug\prj_37450_37460_exercício_triangulo.pdb
